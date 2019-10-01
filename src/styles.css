@@ -1,0 +1,22 @@
+body {
+  font-family: sans-serif;
+}
+.box {
+  font-family: Helvetica;
+  font-size: 30px;
+  width: 60px;
+  height: 60px;
+  text-align: center;
+  vertical-align: center;
+  border: 0.5px solid black;
+  border-collapse: collapse;
+}
+
+.row {
+  margin: 0;
+}
+
+.timerbody {
+  background-color: aqua;
+  border: 1px solid black;
+}
